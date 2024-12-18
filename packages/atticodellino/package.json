@@ -37,7 +37,7 @@
     "graphql-tag": "2.12.6",
     "ical": "0.8.0",
     "lodash": "4.17.21",
-    "next": "13.4.12",
+    "next": "14.2.15",
     "next-auth": "4.22.3",
     "next-plugin-graphql": "0.0.2",
     "node-fetch": "2.6.12",

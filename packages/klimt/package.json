@@ -27,7 +27,7 @@
     "graphql-request": "6.1.0",
     "graphql-tag": "2.12.6",
     "negotiator": "^0.6.3",
-    "next": "13.4.12",
+    "next": "14.2.15",
     "next-plugin-graphql": "0.0.2",
     "postcss": "8.4.27",
     "postcss-custom-media": "10.0.0",
